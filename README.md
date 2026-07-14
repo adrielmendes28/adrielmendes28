@@ -101,17 +101,6 @@ Ferramentas mudam. O que procuro manter constante é a capacidade de entender o
 problema, escolher conscientemente o que não construir e acompanhar a decisão
 até produção.
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielmendes28&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielmendes28&theme=github" alt="Estatísticas do GitHub de Adriel Mendes" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielmendes28&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielmendes28&theme=github" alt="Linguagens mais usadas por Adriel Mendes no GitHub" height="170" />
-</picture>
-
 ---
 
 Se você quiser conversar sobre arquitetura frontend, modernização de legado,
