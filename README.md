@@ -1,57 +1,100 @@
-### Adriel Mendes
+# Adriel Mendes
 
-Software engineer. Construo produtos inteiros — do schema do banco ao deploy em produção.
+**Senior Software Engineer · Frontend Architecture · Product Engineering**
 
-Não paro no front: as coisas abaixo estão no ar, com pagamento, autenticação,
-infra e usuários reais. A maior parte do código é privada, então o portfólio
-aqui são os produtos, não os repositórios.
+Eu gosto da parte menos fotogênica do software: quando uma feature precisa
+conviver com legado, escala, custo, deploy, suporte e pessoas usando tudo ao
+mesmo tempo.
 
-[Portfólio](https://adriel-mendes-portfolio.web.app) · [adriel.amendes12@gmail.com](mailto:adriel.amendes12@gmail.com)
+Há mais de oito anos construo produtos digitais. Minha especialidade é
+arquitetura frontend — design systems, micro-frontends, monorepos e plataformas
+compartilhadas — mas meu trabalho nunca terminou na fronteira do navegador.
+Transito por backend, mobile, dados e infraestrutura porque decisões boas em
+uma camada dependem de entender as consequências nas outras.
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,flutter,dart,python,firebase,gcp,tailwind&theme=light" alt="TypeScript, React, Next.js, Node, Flutter, Dart, Python, Firebase, GCP, Tailwind" />
+Hoje sou **Senior Frontend Engineer e Chapter Leader na
+[SuperFrete](https://superfrete.com)**. Trabalho na modernização gradual de
+aplicações que não podem simplesmente parar para serem reescritas: desenho
+caminhos de migração, consolido bibliotecas compartilhadas, evoluo o design
+system, estruturo CI/CD para web e mobile e ajudo diferentes squads a tomarem
+decisões técnicas compatíveis entre si.
+
+Para mim, senioridade não é produzir mais código. É **reduzir incerteza sem
+esconder complexidade**: fazer as perguntas difíceis cedo, tornar trade-offs
+explícitos, criar uma rota segura entre o estado atual e o desejado e deixar o
+sistema mais compreensível para quem vier depois.
+
+[Portfólio](https://adriel-mendes-portfolio.web.app) ·
+[E-mail](mailto:adriel.amendes12@gmail.com)
 
 ---
 
-#### No ar
+## Como eu trabalho
 
-| | |
+- **Arquitetura é contexto, não estética.** Uma solução só é boa quando cabe no
+  time, no orçamento, no risco e no estágio do produto. Padrão sem problema real
+  para resolver é apenas custo adiado.
+- **Legado se moderniza por caminhos, não por discursos.** Prefiro fronteiras
+  claras, migrações incrementais e entregas reversíveis a grandes reescritas
+  que congelam valor durante meses.
+- **Abstração precisa pagar aluguel.** Bibliotecas e plataformas internas devem
+  remover trabalho repetido, reduzir divergência e melhorar a autonomia dos
+  squads. Caso contrário, viram mais uma camada para manter.
+- **Operação faz parte do design.** Latência, observabilidade, segurança, custo
+  por requisição, cold start e comportamento sob falha entram na conversa antes
+  do deploy — não depois do incidente.
+- **Liderança técnica não pode criar dependência.** Meu papel é dar contexto,
+  elevar a qualidade das decisões e formar outras referências, não me tornar o
+  único caminho possível para o time avançar.
+
+## O que construo fora do organograma
+
+Produtos próprios são onde testo decisões de ponta a ponta. Neles não existe a
+opção de “entregar para o próximo time”: arquitetura, interface, cobrança,
+infraestrutura, observabilidade e suporte terminam na mesma pessoa.
+
+| Produto | O problema de engenharia |
 |---|---|
-| **[PixSales](https://pixsales.pro)** | Checkout PIX com a pegada da Stripe. API versionada, modo de teste, webhooks assinados com HMAC. Taxa de 0,5%. |
-| **[FireMonitor](https://firemonitor.com.br)** | Detecção de incêndio no campo por IA, direto de câmeras RTSP. Alerta no WhatsApp em segundos. Cloud ou self-hosted. |
-| **[SprintKit](https://sprintkit.pro)** | Suíte ágil pra squads: sprint, burndown e retro num lugar só — com IA lendo o clima do time. Assinatura mensal. |
-| **[PlayPix](https://playpix.fun)** | Doação com PIX e voz na live, com a menor taxa do Brasil. Dê um play no seu donate. |
-| **[Prowl](https://prowl-76ca1.web.app)** | Code review automatizado com LLM. Lê o diff, comenta no PR, fecha o ticket no Jira. |
-| **[MDetail](https://mdetail.com.br)** | Estética automotiva premium. Negócio meu — do site à operação. |
+| **[PixSales](https://pixsales.pro)** | Infraestrutura de checkout PIX com API versionada, ambiente de teste e webhooks assinados com HMAC. O desafio é tornar pagamento simples para quem integra sem tratar segurança e rastreabilidade como detalhes. |
+| **[FireMonitor](https://firemonitor.com.br)** | Transforma câmeras RTSP existentes em sensores de fumaça e fogo. Combina visão computacional, processamento contínuo de vídeo e alertas pelo WhatsApp, equilibrando tempo de resposta e custo de inferência 24/7. |
+| **[SprintKit](https://sprintkit.pro)** | Ferramentas colaborativas em tempo real para cerimônias de squads. O produto precisa manter o estado de várias pessoas sincronizado sem transformar uma interação simples em uma interface pesada. |
+| **[PlayPix](https://playpix.fun)** | Doações via PIX com reprodução de voz em transmissões ao vivo. Une confirmação de pagamento, moderação e entrega do evento em tempo próximo do real. |
+| **[Prowl](https://prowl-76ca1.web.app)** | Code review assistido por LLM conectado ao fluxo real de engenharia: lê diffs, comenta pull requests e integra o resultado com Jira. O valor não está apenas no prompt, mas em encaixar IA no processo sem aumentar o ruído. |
+| **[MDetail](https://mdetail.com.br)** | Um negócio de estética automotiva que também é meu. Da identidade à operação, ele me lembra que produto não começa no framework e não termina no deploy. |
 
-#### Em construção
+Também estou desenvolvendo o **PneuFácil**, para gestão offline-first de pneus em
+frotas, e o **EasyMac**, uma proposta de runners macOS sob demanda em Apple
+Silicon.
 
-**PneuFácil** — gestão de pneus para frotas, offline-first. &nbsp;
-**EasyMac** — runners macOS em Apple Silicon, sob demanda.
+## Experiência que moldou meu trabalho
+
+Minha trajetória começou em design gráfico, passou por software sob medida para
+o agro, produtos de onboarding, ERP, plataformas B2B e aplicações usadas em
+operações críticas. Trabalhei como full stack antes de aprofundar frontend, e
+essa sequência ainda orienta a forma como projeto sistemas: interface é parte
+do produto, mas produto é maior que a interface.
+
+Em times de produto, já atuei dos dois lados da modernização: criando sistemas
+novos e evoluindo bases grandes, com regras de negócio acumuladas e usuários
+que não podem esperar uma reescrita. É nesse segundo cenário — ambíguo,
+restritivo e cheio de dependências — que minha experiência costuma gerar mais
+valor.
+
+O histórico completo está no meu [portfólio](https://adriel-mendes-portfolio.web.app).
+
+## Ferramentas
+
+Meu eixo principal hoje é **TypeScript**, com React, Angular, Node.js e
+arquiteturas frontend em escala. Também construo aplicações mobile com Flutter,
+React Native e Capacitor; serviços e automações com Python; e opero produtos em
+Firebase e GCP, incluindo Cloud Run, Firestore e Realtime Database.
+
+Ferramentas mudam. O que procuro manter constante é a capacidade de entender o
+problema, escolher conscientemente o que não construir e acompanhar a decisão
+até produção.
 
 ---
 
-#### Stack
-
-**TypeScript** · React · Node · Next &nbsp;&nbsp;|&nbsp;&nbsp; **Dart** · Flutter &nbsp;&nbsp;|&nbsp;&nbsp; **Python**
-
-**Firebase** · GCP · Cloud Run · Firestore · Realtime Database &nbsp;&nbsp;|&nbsp;&nbsp; **Stripe** · PIX
-
-Trabalho muito com o que dá pra medir: custo por request, latência de cold start,
-e o preço real de rodar IA em cima de vídeo 24/7.
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&title_color=fafafa&text_color=a1a1aa&icon_color=71717a&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=18181b&text_color=52525b&icon_color=71717a&bg_color=00000000" alt="Estatísticas do GitHub" height="150" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&theme=dark&title_color=fafafa&text_color=a1a1aa&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&title_color=18181b&text_color=52525b&bg_color=00000000" alt="Linguagens mais usadas" height="150" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
-</picture>
+Se você quiser conversar sobre arquitetura frontend, modernização de legado,
+plataformas internas ou construção de produtos completos:
+**[adriel.amendes12@gmail.com](mailto:adriel.amendes12@gmail.com)**.
