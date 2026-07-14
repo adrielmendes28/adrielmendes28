@@ -104,12 +104,12 @@ até produção.
 ## GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&title_color=fafafa&text_color=a1a1aa&icon_color=71717a&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=18181b&text_color=52525b&icon_color=71717a&bg_color=00000000" alt="Estatísticas do GitHub de Adriel Mendes" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielmendes28&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrielmendes28&theme=github" alt="Estatísticas do GitHub de Adriel Mendes" height="170" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&theme=dark&title_color=fafafa&text_color=a1a1aa&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&title_color=18181b&text_color=52525b&bg_color=00000000" alt="Linguagens mais usadas por Adriel Mendes no GitHub" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielmendes28&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrielmendes28&theme=github" alt="Linguagens mais usadas por Adriel Mendes no GitHub" height="170" />
 </picture>
 
 ---
