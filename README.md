@@ -2,6 +2,10 @@
 
 **Senior Software Engineer · Frontend Architecture · Product Engineering**
 
+![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-18181b?style=flat-square)
+![Frontend Chapter Leader](https://img.shields.io/badge/Frontend_Chapter_Leader-18181b?style=flat-square)
+![Goiás, Brasil](https://img.shields.io/badge/Goiás,_Brasil-18181b?style=flat-square)
+
 Eu gosto da parte menos fotogênica do software: quando uma feature precisa
 conviver com legado, escala, custo, deploy, suporte e pessoas usando tudo ao
 mesmo tempo.
@@ -89,12 +93,33 @@ arquiteturas frontend em escala. Também construo aplicações mobile com Flutte
 React Native e Capacitor; serviços e automações com Python; e opero produtos em
 Firebase e GCP, incluindo Cloud Run, Firestore e Realtime Database.
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,nextjs,nodejs,flutter,dart,python,firebase,gcp,tailwind&theme=light" alt="TypeScript, React, Angular, Next.js, Node.js, Flutter, Dart, Python, Firebase, GCP e Tailwind" />
+</p>
+
 Ferramentas mudam. O que procuro manter constante é a capacidade de entender o
 problema, escolher conscientemente o que não construir e acompanhar a decisão
 até produção.
+
+## GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark&title_color=fafafa&text_color=a1a1aa&icon_color=71717a&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrielmendes28&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=18181b&text_color=52525b&icon_color=71717a&bg_color=00000000" alt="Estatísticas do GitHub de Adriel Mendes" height="150" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&theme=dark&title_color=fafafa&text_color=a1a1aa&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielmendes28&layout=compact&hide_border=true&langs_count=8&title_color=18181b&text_color=52525b&bg_color=00000000" alt="Linguagens mais usadas por Adriel Mendes no GitHub" height="150" />
+</picture>
 
 ---
 
 Se você quiser conversar sobre arquitetura frontend, modernização de legado,
 plataformas internas ou construção de produtos completos:
 **[adriel.amendes12@gmail.com](mailto:adriel.amendes12@gmail.com)**.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/adrielmendes28/adrielmendes28/output/snake.svg" alt="Animação das contribuições de Adriel Mendes" />
+</picture>
