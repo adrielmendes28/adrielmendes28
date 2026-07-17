@@ -3,7 +3,6 @@
 **Senior Software Engineer · Frontend Architecture · Product Engineering**
 
 ![Senior Software Engineer](https://img.shields.io/badge/Senior_Software_Engineer-18181b?style=flat-square)
-![Frontend Chapter Leader](https://img.shields.io/badge/Frontend_Chapter_Leader-18181b?style=flat-square)
 ![Goiás, Brasil](https://img.shields.io/badge/Goiás,_Brasil-18181b?style=flat-square)
 
 Eu gosto da parte menos fotogênica do software: quando uma feature precisa
@@ -16,7 +15,7 @@ compartilhadas — mas meu trabalho nunca terminou na fronteira do navegador.
 Transito por backend, mobile, dados e infraestrutura porque decisões boas em
 uma camada dependem de entender as consequências nas outras.
 
-Hoje sou **Senior Frontend Engineer e Chapter Leader na
+Hoje sou **Senior Frontend Engineer na
 [SuperFrete](https://superfrete.com)**. Trabalho na modernização gradual de
 aplicações que não podem simplesmente parar para serem reescritas: desenho
 caminhos de migração, consolido bibliotecas compartilhadas, evoluo o design
