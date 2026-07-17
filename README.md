@@ -61,7 +61,7 @@ infraestrutura, observabilidade e suporte terminam na mesma pessoa.
 | **[PixSales](https://pixsales.pro)** | Infraestrutura de checkout PIX com API versionada, ambiente de teste e webhooks assinados com HMAC. O desafio é tornar pagamento simples para quem integra sem tratar segurança e rastreabilidade como detalhes. |
 | **[FireMonitor](https://firemonitor.com.br)** | Transforma câmeras RTSP existentes em sensores de fumaça e fogo. Combina visão computacional, processamento contínuo de vídeo e alertas pelo WhatsApp, equilibrando tempo de resposta e custo de inferência 24/7. |
 | **[SprintKit](https://sprintkit.pro)** | Ferramentas colaborativas em tempo real para cerimônias de squads. O produto precisa manter o estado de várias pessoas sincronizado sem transformar uma interação simples em uma interface pesada. |
-| **[PlayPix](https://playpix.fun)** | Doações via PIX com reprodução de voz em transmissões ao vivo. Une confirmação de pagamento, moderação e entrega do evento em tempo próximo do real. |
+| **[PlayPix](https://playpix.fun)** (em breve open-source) | Doações via PIX com reprodução de voz em transmissões ao vivo. Une confirmação de pagamento, moderação e entrega do evento em tempo próximo do real. |
 | **[Prowl](https://prowl-76ca1.web.app)** | Code review assistido por LLM conectado ao fluxo real de engenharia: lê diffs, comenta pull requests e integra o resultado com Jira. O valor não está apenas no prompt, mas em encaixar IA no processo sem aumentar o ruído. |
 | **[MDetail](https://mdetail.com.br)** | Um negócio de estética automotiva que também é meu. Da identidade à operação, ele me lembra que produto não começa no framework e não termina no deploy. |
 
